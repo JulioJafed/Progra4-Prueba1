@@ -1,4 +1,4 @@
-import './App.css';
+/*import './App.css';
 import head_Page from './components/PageHead';
 import { useState, useEffect } from "react"
 import React from 'react'
@@ -10,7 +10,7 @@ export const Repositorios = () => {
     const [user] = useState("JulioJafed")
    
     /*Lo usamos para almasenar los datos*/ 
-    const [items, setItems] = useState([])
+  /*  const [items, setItems] = useState([])
   
     useEffect(() => {
       const fetchRepos = async () => {
@@ -25,4 +25,4 @@ export const Repositorios = () => {
       fetchRepos()
     }, [user])
   }
-  
+  */
