@@ -32,8 +32,6 @@ const Pagesection = () => {
                 </button>
             </a>
             </p>
-
-
         </div>
     )
 }

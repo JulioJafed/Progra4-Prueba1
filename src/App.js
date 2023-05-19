@@ -3,6 +3,7 @@ import './App.css';
 import Headers from './components/Headers';
 import PageFooter from './components/Pagefooter';
 import Pagesection from'./components/Pagesection';
+import "./css/style.css";
 
 function App() {
   return (
@@ -10,9 +11,12 @@ function App() {
       <Headers>PaHeaders</Headers>
 
       <Pagesection>Pagesection</Pagesection>
-      <PageFooter>PageFooter</PageFooter>
+    
+       <PageFooter>PageFooter</PageFooter>
 
-    </div>
+          </div>
+
+
   );
 }
 
