@@ -1,0 +1,42 @@
+[33mcommit 9021d1d90c5428b4f9eb03d08f1b5d334dc07b42[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 964df96 8b4d9d9
+Author: Julio <juliojafed123@gmail.com>
+Date:   Mon May 22 19:54:45 2023 -0600
+
+    second commit
+
+[33mcommit 964df96249d1506a993b6f5536500ee2c3ccaf41[m
+Author: Julio <juliojafed123@gmail.com>
+Date:   Mon May 22 19:45:20 2023 -0600
+
+    second commitment
+
+[33mcommit 8b4d9d911a6031274f55c49d9e969c1803e94158[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: JulioJafed <128091133+JulioJafed@users.noreply.github.com>
+Date:   Fri May 19 10:41:34 2023 -0600
+
+    Update Repositorios.js
+
+[33mcommit 19b2165493a7f9a4073e83c05e67b1e08abf768a[m
+Author: Julio <juliojafed123@gmail.com>
+Date:   Fri May 19 10:28:04 2023 -0600
+
+    JavaScrit
+
+[33mcommit 572907fe1f7a73836cf356911334c63d847f3d02[m
+Author: JulioJafed <128091133+JulioJafed@users.noreply.github.com>
+Date:   Fri May 19 10:17:43 2023 -0600
+
+    Update Repositorios.js
+
+[33mcommit b1ff6af903a3f6ac350aaaeeec5e29c3405fdcd9[m
+Author: Julio <juliojafed123@gmail.com>
+Date:   Sat May 6 21:42:33 2023 -0600
+
+    first commit
+
+[33mcommit 41a37c488eb445980bb24fd84c4612cffaf52ffd[m
+Author: Julio <juliojafed123@gmail.com>
+Date:   Fri May 5 23:33:55 2023 -0600
+
+    Initialize project using Create React App
