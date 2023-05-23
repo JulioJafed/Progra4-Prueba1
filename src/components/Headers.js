@@ -5,9 +5,11 @@ const Headers = () => {
   return (
     <div>
       <h1 className='contener'>Personal Folder </h1>
-      <img  src={Logo} alt='No found'></img>
+      <img className='FotoPerson' src={Logo} alt='No found'></img>
+      
     </div>
   )
+  
 }
 
 export default Headers

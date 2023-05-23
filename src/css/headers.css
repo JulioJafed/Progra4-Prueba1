@@ -11,14 +11,13 @@
     margin-right: 0%;
     margin-bottom: 0%;
     border-style: ridge;
-
 }
-img{
+.FotoPerson{
     margin-top: -3.70vw;
     margin-right: 2vw;
     width: 3vw; height: 3vw;
     float: right;
 }
-img:hover{
+.FotoPerson:hover{
     border-radius: 14vw;
 }
